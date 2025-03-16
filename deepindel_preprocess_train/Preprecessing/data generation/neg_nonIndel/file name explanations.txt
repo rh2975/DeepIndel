@@ -1,0 +1,5 @@
+"pad_25_shift_50.hdf5" - file name explanations
+
+here
+	padding amount is 25 base pairs and
+	shfited amount is 50 base pairs 
